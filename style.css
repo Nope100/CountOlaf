@@ -1,0 +1,82 @@
+h1, h2{
+   text-align: center; 
+   font-weight: bolder;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-variant: small-caps;
+   color: #1f1300;
+}
+body{
+    background: linear-gradient(#cc5803, #f7b05b, #ffc15e);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
+#count_olaf_img{
+    border: #1f1300;
+  border-style: solid;
+  margin-left: auto;
+  margin-top: auto;
+  text-align: center;
+}
+
+.content, #count_olaf_img{
+    display:inline-block;
+  }
+
+  #img_div{
+    text-align: center;
+  }
+
+
+#count_olaf_description{
+  margin-top: 20px;
+  padding-left: 10px;
+  margin-right: 10px;
+  float: left;
+  font-size: 20;
+  color: #1f1300;
+  text-align: justify;
+text-align:center
+}
+
+#marqueeStyle{
+    color:bisque;
+height: 30px;
+  font-size: 15;
+}
+
+.navbar-header, #myNavBar{
+background-color: #1f1300;
+}
+
+.navbar-brand{
+  color:bisque;
+}
+
+#Theatre_Troupe{
+  align-items: center;
+  text-align: center;
+}
+
+#troupe_img{
+  border-style: solid;
+  border-width: 5px;
+  border-color:#1f1300;
+  height: 300px;
+}
+
+#baudelaires_p{
+  font-size: 16;
+  color: #1f1300;
+}
+
+iframe{
+  margin-right: 30px;
+  margin-left: 40px;
+  border-style: solid;
+  border-width: 4px;
+  border-color:#1f1300;
+}
+
+p{
+  color:#1f1300; 
+}
